@@ -1,13 +1,10 @@
 # PhobiaXR
 
-
 ## Project Overview
 
 A VR-based phobia exposure therapy simulation developed in Unity that integrates live heart rate data from any smartwatch to dynamically adjust environmental intensity based on user stress levels.
 The project placed in the Top 5 of the All India XR Creator Hackathon 2024-25. I handled all aspects of the VR and Unity development while also managing the team and coordinating the project.
 Note that this only contains the scripts from the project and not the entire project.
-
-
 
 
 ## Project Features
